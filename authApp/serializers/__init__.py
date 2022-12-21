@@ -1,0 +1,4 @@
+from .estudianteSerializer import EstudianteSerializer
+from .preguntaSerializer import PreguntaSerializer
+from .pruebaSerializer import PruebaSerializer
+from .resultadoSerializer import ResultadoSerializer
